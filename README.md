@@ -1,6 +1,6 @@
 <div align=center><h1> CS492(A)-Machine-Learning-for-3D-Data </h1></div>
-Minhyuck Sung, KAIST, Spring 2022, **Lecture study**  
-Start from 2023.04.16  
+Minhyuck Sung, KAIST, Spring 2022<br>
+<b>Lecture Study</b> Since 23.04.16
 
 🌏[Lecture Website](https://mhsung.github.io/kaist-cs492a-spring-2022/)  
 🪐[Programming Assignments](https://github.com/63days/kaist-3dml-assignments)  
